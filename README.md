@@ -1,13 +1,11 @@
 # LiveClock
-Live Clock with HTML, CSS and Js
-
+Live Clock with HTML, CSS and Js.
 In this Project you can display a live clock which updates in real time.
 
-# Linked
-index.html, style.css and script.js are linked.
 
 # All in one file
 allInOne.html is one file which contains all code and still works.
+
 
 # Demo
 https://derprogrammierboss.github.io/liveClock.html
