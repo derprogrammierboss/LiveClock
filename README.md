@@ -8,4 +8,4 @@ allInOne.html is one file which contains all code and still works.
 
 
 # Demo
-https://derprogrammierboss.github.io/liveClock.html
+https://derprogrammierboss.github.io/LiveClock/liveClock.html
